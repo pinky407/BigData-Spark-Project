@@ -16,3 +16,6 @@ I have found the top 10 word count using spark
 9. result.saveAsTextFile("Top10words")
 ## Visualization
 ![](Visual.PNG)
+## References
+1. https://github.com/denisecase/setup-spark
+2. https://dzone.com/articles/wordcount-with-spark-and-scala

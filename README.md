@@ -19,3 +19,4 @@ I have found the top 10 word count using spark
 ## References
 1. https://github.com/denisecase/setup-spark
 2. https://dzone.com/articles/wordcount-with-spark-and-scala
+3. "http://www.columbia.edu/~fdc/sample.html"

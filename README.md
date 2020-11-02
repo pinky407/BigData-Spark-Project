@@ -14,3 +14,5 @@ I have found the top 10 word count using spark
 7. val result = reducedata.sortBy(_._2, false)
 8. result.take(10)
 9. result.saveAsTextFile("Top10words")
+## Visualization
+

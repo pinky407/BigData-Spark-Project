@@ -15,4 +15,4 @@ I have found the top 10 word count using spark
 8. result.take(10)
 9. result.saveAsTextFile("Top10words")
 ## Visualization
-
+![](Visual.png)
